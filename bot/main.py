@@ -7,7 +7,7 @@ import random
 from datetime import datetime
 from io import BytesIO
 
-bot = interactions.Client(token="MTE2NzEwNDM0ODUwNjAzNDI1OQ.GCAmhu.f9QC7cgesi4kjw6s-Zw8PAs35Kk0xm9Aq4L_FA")
+bot = interactions.Client(token="...")
 
 '''
 All events are defined below.
