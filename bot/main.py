@@ -483,9 +483,6 @@ async def random_dog_function(ctx: SlashContext):
     else:
         await ctx.send("Failed to get a random dog image.")
 
-import requests
-import discord
-
 @slash_command(name="steam_users", description="Get the number of steam users online and in game")
 async def steam_users_function(ctx: SlashContext):
     response = requests.get("https://www.valvesoftware.com/about/stats")
