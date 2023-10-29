@@ -1,3 +1,5 @@
+![Le bot TALMA bannière](assets/img/bot_talma_banner.png)
+
 # Répertoire du Bot
 
 Ce répertoire contient un bot Discord implémenté en Python. Le bot est conçu pour effectuer diverses tâches, telles que répondre à l'entrée de l'utilisateur et effectuer des actions automatisées.
